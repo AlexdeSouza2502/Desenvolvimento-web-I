@@ -6,6 +6,10 @@
 
 3-Realizando um começo de site para um cinema
 
+4-Quando clicado em uma das cidades é direcionado para outra pagina. 
+
+5-Temos tambem o botão de inicio
+
 Tela Inicial da pagina
 ![image](https://user-images.githubusercontent.com/62069087/187807904-381c87bc-7ece-4f22-a8c7-0f528959a173.png)
 
